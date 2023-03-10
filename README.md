@@ -1,11 +1,17 @@
 # Hey there, I'm Precious Mamotingoe Lesupi👋 
 
+[![Website](https://img.shields.io/website?label=mamotingoe.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mamotingoe.me)
+
 ## I am a junior developer interested in mobile app development and inclusive technology. I am currently taking up the UX/UI Open Bootcamp to hone my skills as an aspiring mobile app developer.
+
+### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+
+
 <details>
   <summary>:zap: GitHub Stats</summary>
   [![Mamotingoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mamotingoe)]
