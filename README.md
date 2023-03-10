@@ -1,8 +1,6 @@
 # Hey there, I'm Precious Mamotingoe Lesupi👋 
 
-[![Website](https://img.shields.io/website?label=mamotingoe.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mamotingoe.me)
-[![website](https://cdn-icons-png.flaticon.com/512/1006/1006771.png)](https://mamotingoe.me/)
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="256" height="256">
+<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="100" height="100">
 [![website](https://cdn-icons-png.flaticon.com/512/187/187210.png)](https://www.youtube.com/channel/UCMrkgxiR6_TZG3yFtYxJPQg)
 [![website](https://cdn-icons-png.flaticon.com/512/3670/3670151.png)](https://twitter.com/Mamotingoe_)
 [![website](https://cdn-icons-png.flaticon.com/512/145/145807.png)](https://www.linkedin.com/in/mamotingoe-precious-lesupi-3aab1718b/)
