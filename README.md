@@ -1,7 +1,12 @@
 # Hey there, I'm Precious Mamotingoe Lesupi👋 
 
 [![Website](https://img.shields.io/website?label=mamotingoe.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mamotingoe.me)
-
+[![website](./img/globe-light.svg)](https://mamotingoe.me/)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCMrkgxiR6_TZG3yFtYxJPQg)
+[![website](./img/twitter-light.svg)](https://twitter.com/Mamotingoe_)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mamotingoe-precious-lesupi-3aab1718b/)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/mamotingoe/)
+[![website](./img/behance-light.svg)](https://www.behance.net/preciouslesupi)
 ## I am a junior developer interested in mobile app development and inclusive technology. I am currently taking up the UX/UI Open Bootcamp to hone my skills as an aspiring mobile app developer.
 
 ### Languages and Tools:
