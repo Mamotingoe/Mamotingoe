@@ -6,9 +6,27 @@
   <summary>:zap: GitHub Stats</summary>
   [![Mamotingoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mamotingoe)]
 
- 
 
 </details>
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://mamotingoe.me/)
+[![website](./img/globe-dark.svg)](https://mamotingoe.me/)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCMrkgxiR6_TZG3yFtYxJPQg)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCMrkgxiR6_TZG3yFtYxJPQg)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/Mamotingoe_)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Mamotingoe_)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mamotingoe-precious-lesupi-3aab1718b/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mamotingoe-precious-lesupi-3aab1718b/)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/mamotingoe/)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/mamotingoe/)
+&nbsp;&nbsp;
+[![website](./img/behance-light.svg)](https://www.behance.net/preciouslesupi)
+[![website](./img/behance-dark.svg)](https://www.behance.net/preciouslesupi)
 
 <br/>
 
