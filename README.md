@@ -4,7 +4,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  [![Mamotingoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mamotingoe)](https://github.com/Mamotingoe/github-readme-stats)
+  [![Mamotingoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mamotingoe)]
 
  
 
