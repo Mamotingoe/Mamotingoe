@@ -1,4 +1,6 @@
-# Hey there, I'm Precious Mamotingoe Lesupi👋 
+# Hey there, I'm <a href="https://mamotingoe.me/">Precious Mamotingoe Lesupi</a> 👋 
+
+## Connect with me:
 
 <a href="https://mamotingoe.me/"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="50" height="50"></a>
 <a href="https://www.youtube.com/channel/UCMrkgxiR6_TZG3yFtYxJPQg"><img src="https://cdn-icons-png.flaticon.com/512/187/187210.png" width ="50" height="50"></a>
