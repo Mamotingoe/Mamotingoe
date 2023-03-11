@@ -1,7 +1,7 @@
 # Hey there, I'm Precious Mamotingoe Lesupi👋 
 
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="100" height="100">
-[![website](https://cdn-icons-png.flaticon.com/512/187/187210.png)](https://www.youtube.com/channel/UCMrkgxiR6_TZG3yFtYxJPQg)
+<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="100" height="100">(https://mamotingoe.me/)
+<img src="https://cdn-icons-png.flaticon.com/512/187/187210.png" width ="50" height="50">(https://www.youtube.com/channel/UCMrkgxiR6_TZG3yFtYxJPQg)
 [![website](https://cdn-icons-png.flaticon.com/512/3670/3670151.png)](https://twitter.com/Mamotingoe_)
 [![website](https://cdn-icons-png.flaticon.com/512/145/145807.png)](https://www.linkedin.com/in/mamotingoe-precious-lesupi-3aab1718b/)
 [![website](https://cdn-icons-png.flaticon.com/512/3955/3955024.png)](https://www.instagram.com/mamotingoe/)
