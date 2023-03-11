@@ -1,11 +1,11 @@
 # Hey there, I'm Precious Mamotingoe Lesupi👋 
 
-<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="100" height="100">(https://mamotingoe.me/)
+<a href="https://mamotingoe.me/"><img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="50" height="50"></a>(https://mamotingoe.me/)
 <img src="https://cdn-icons-png.flaticon.com/512/187/187210.png" width ="50" height="50">(https://www.youtube.com/channel/UCMrkgxiR6_TZG3yFtYxJPQg)
-[![website](https://cdn-icons-png.flaticon.com/512/3670/3670151.png)](https://twitter.com/Mamotingoe_)
-[![website](https://cdn-icons-png.flaticon.com/512/145/145807.png)](https://www.linkedin.com/in/mamotingoe-precious-lesupi-3aab1718b/)
-[![website](https://cdn-icons-png.flaticon.com/512/3955/3955024.png)](https://www.instagram.com/mamotingoe/)
-[![website](https://cdn-icons-png.flaticon.com/512/145/145799.png)](https://www.behance.net/preciouslesupi)
+<img src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" width="50" height="50">(https://twitter.com/Mamotingoe_)
+<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="50" height="50">(https://www.linkedin.com/in/mamotingoe-precious-lesupi-3aab1718b/)
+<img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="50" height="50">(https://www.instagram.com/mamotingoe/)
+<img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" width="50" height="50">(https://www.behance.net/preciouslesupi)
 ## I am a junior developer interested in mobile app development and inclusive technology. I am currently taking up the UX/UI Open Bootcamp to hone my skills as an aspiring mobile app developer.
 
 ### Languages and Tools:
