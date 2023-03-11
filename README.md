@@ -15,7 +15,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
-### GitHub Stats:
+#### GitHub Stats:
 <details>
   <summary>:zap: GitHub Stats</summary>
   [![Mamotingoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mamotingoe)]
@@ -23,12 +23,4 @@
 
 </details>
 
-<br/>
-
-[website]: https://mamotingoe.me/
-[twitter]: https://twitter.com/Mamotingoe_
-[youtube]: https://www.youtube.com/channel/UCMrkgxiR6_TZG3yFtYxJPQg
-[instagram]: https://www.instagram.com/mamotingoe/
-[linkedin]: https://www.linkedin.com/in/mamotingoe-precious-lesupi-3aab1718b/
-[behance]: https://www.behance.net/preciouslesupi
 
