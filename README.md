@@ -20,7 +20,6 @@
 <img align="left" alt="Figma" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" style="padding-right:10px;" />
 <img align="left" alt="Adobe XD" width="26px" src="https://cdn-icons-png.flaticon.com/512/5611/5611129.png" style="padding-right:10px;" />
 
-
 </br>
 
 #### GitHub Stats:
