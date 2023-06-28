@@ -10,7 +10,7 @@
 <a href="https://www.behance.net/preciouslesupi"><img src="https://cdn-icons-png.flaticon.com/512/145/145799.png" width="50" height="50"><a/>
 <a href="https://www.tiktok.com/@mamotingoe?_t=8aYJheEA8Cj&_r=1"><img src="https://cdn-icons-png.flaticon.com/512/3116/3116491.png" width="50" height="50"></a>
 <a href="https://www.facebook.com/mamotingoe.lesupi.1"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width="50" height="50"></a>
-## I am a self-taught junior developer interested in mobile app development and inclusive technology. I am currently taking up the UX/UI Open Bootcamp to hone my skills as an aspiring mobile app developer.
+## I am a self-taught junior developer interested in mobile app development and inclusive technology. I am currently taking up the ALX Software Engineering Course to hone my skills as an aspiring mobile app developer.
 
 ### Languages and Tools:
 
